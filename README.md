@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inivos-Nowshin
+- 👋 Hi, I’m Nowshin
 - 👀 I’m interested in playing online games, cooking, long drive and outdoor plans with friends etc.
 - 🌱 I’m currently learning API automation using TestNG and RestAssured.
 - 💞️ I’m looking to collaborate on a big project called CDM Pal soon.
